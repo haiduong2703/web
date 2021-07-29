@@ -1,3 +1,6 @@
+body{
+    background-color:lightskyblue;
+}
 h1{
     background-color:gold;
     text-align: center;
@@ -22,6 +25,9 @@ table,td,tr,th{
     border: 1px solid black;
     border-collapse: collapse;
     padding: 0.5rem;
+}
+td{
+    font-size: 18px;
 }
 footer h3{
     color:crimson;
